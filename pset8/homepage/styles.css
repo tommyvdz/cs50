@@ -1,0 +1,36 @@
+a {
+    color: darkred;
+}
+
+a:hover {
+    color: darkred;
+    font-weight: bolder;
+}
+
+p {
+    text-align: justify;
+}
+
+#centerthis {
+    text-align: center;
+}
+
+/* set the colors of the status text in the table */
+.inprogress {
+    background-color: lightgoldenrodyellow;
+    font-weight: bold;
+}
+
+.notstarted {
+    background-color: lightgrey;
+}
+
+/* set the margin of the "body" container */
+#body {
+    margin: auto;
+}
+
+/* set the margin of the background */
+#bg {
+    background-color: gainsboro;
+}
